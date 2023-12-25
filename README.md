@@ -1,5 +1,17 @@
 # Startup success prediction
 ## Overview
-This repository contains the implementation of skills acquired in the field of data science and artificial intelligence to build a machine learning model capable of predicting the success of a startup. The project focuses on leveraging data-driven insights to enhance decision-making processes in the startup ecosystem.
+This project harnesses the power of data science and artificial intelligence to develop a robust machine learning model capable of predicting the success of startups. By leveraging advanced analytics and predictive modeling, our goal is to empower stakeholders in the startup ecosystem with valuable insights for strategic decision-making.
 
-[Kaggle dataset link](https://www.kaggle.com/datasets/manishkc06/startup-success-prediction)
+## Features
+- Data Collection: Utilizes a dataset from Kaggle. [Kaggle dataset link](https://www.kaggle.com/datasets/manishkc06/startup-success-prediction)
+
+- Exploratory Data Analysis (EDA): Performs in-depth EDA to understand patterns, correlations, and outliers in the dataset.
+
+- Data Preprocessing: Cleans and preprocesses the data to ensure its quality and suitability for machine learning model training.
+
+- Feature Engineering: Creates new features or transforms existing ones to improve the model's predictive performance.
+
+- Machine Learning Model: Implements a predictive model using state-of-the-art machine learning algorithms to forecast startup success.
+
+- Evaluation Metrics: Assesses the model's performance using appropriate evaluation metrics and fine-tunes it for optimal results.
+
