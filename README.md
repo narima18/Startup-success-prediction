@@ -15,3 +15,9 @@ This project harnesses the power of data science and artificial intelligence to 
 
 - Evaluation Metrics: Assesses the model's performance using appropriate evaluation metrics and fine-tunes it for optimal results.
 
+## Prerequisites
+Ensure you have the following prerequisites installed:
+
+Python 3.x
+
+Pip (Python package installer)
