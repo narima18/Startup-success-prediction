@@ -18,6 +18,6 @@ This project harnesses the power of data science and artificial intelligence to 
 ## Prerequisites
 Ensure you have the following prerequisites installed:
 
-Python 3.x
+- Python 3.x
 
-Pip (Python package installer)
+- Pip (Python package installer)
